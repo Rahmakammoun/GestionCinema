@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RMIClient-GE.iml" filepath="$PROJECT_DIR$/RMIClient-GE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RMIServer-GE/RMIServer-GE/RMIServer-GE.iml" filepath="$PROJECT_DIR$/../RMIServer-GE/RMIServer-GE/RMIServer-GE.iml" />
+    </modules>
+  </component>
+</project>
