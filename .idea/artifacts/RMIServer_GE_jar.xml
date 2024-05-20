@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RMIServer-GE:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RMIServer_GE_jar</output-path>
+    <root id="archive" name="RMIServer-GE.jar">
+      <element id="module-output" name="RMIServer-GE" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/mysql-connector-java-5.0.7-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
